@@ -1,4 +1,4 @@
-# E-Commerce PLatform Using ReactJS
+# E-Commerce Platform Using ReactJS
 
 
 ## 😎 Features
