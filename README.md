@@ -1,5 +1,8 @@
 # E-Commerce Platform Using ReactJS
 
+## Live Demo
+
+https://e-commerce-platform-alpha.vercel.app/
 
 ## 😎 Features
 
